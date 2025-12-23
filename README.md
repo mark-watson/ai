@@ -1,4 +1,4 @@
-# ai: a Common Lisp implementation for the ideas for the https://hybrid-ai.agency
+# ai: a Common Lisp implementation for the ideas for the https://hybrid-ai.agency project
 
 ## Setup:
 
