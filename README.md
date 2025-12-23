@@ -5,3 +5,8 @@
     cd ~/quicklisp/local-projects
     git clone https://github.com/mark-watson/ai.git
 
+## Usage:
+
+    (ql:quickload :ai)
+    (ai:test-function)
+
