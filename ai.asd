@@ -4,4 +4,5 @@
   :license "AGPLv3"
   :serial t
   :components ((:file "project")
+               (:file "mlog")
                (:file "ai")))
